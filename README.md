@@ -14,5 +14,5 @@ Learn to build responsive registration forms with HTML & CSS! Easy to follow gui
 
 ## Demo
 
-[CodePen](https://codepen.io/vebpath/pen/gOybbyL)
+[CodePen](https://codepen.io/vebpath/full/gOybbyL)
 
